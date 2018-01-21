@@ -80,7 +80,7 @@ electronで作ってみよう
 
 ---
 
-## functions(2/2)
+### functions(2/2)
 
 |#|できること|
 |:---|:---|
@@ -125,6 +125,7 @@ Dropboxユーザの私的には同期できて嬉しい<!-- .element: class="fra
 1. themeを切替える
 
 ![](reveal_lightning_work/about_reveal_rightning/change_theme.gif)
+<!-- .element: style="width: 55%" -->
 
 ---
 
@@ -132,6 +133,7 @@ Dropboxユーザの私的には同期できて嬉しい<!-- .element: class="fra
 - macのChromeなら最大化してCommand+Shift+Fで全画面表示できてよい
 
 ![](reveal_lightning_work/about_reveal_rightning/open_browser.gif)
+<!-- .element: style="width: 70%" -->
 
 ---
 
@@ -139,6 +141,7 @@ Dropboxユーザの私的には同期できて嬉しい<!-- .element: class="fra
 - chromeの印刷で行う
 
 ![](reveal_lightning_work/about_reveal_rightning/open_browser_for_pdf.gif)
+<!-- .element: style="width: 80%" -->
 
 ----------
 
