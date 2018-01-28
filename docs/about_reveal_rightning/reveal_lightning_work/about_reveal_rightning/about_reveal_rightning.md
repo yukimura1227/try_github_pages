@@ -166,6 +166,7 @@ Dropboxユーザの私的には同期できて嬉しい<!-- .element: class="fra
 - コンテキストメニューの整理
 - 有用なショートカットの拡充
 - markdown preview部分の数式対応
+- nativeなPDF export機能
 
 ----------
 
