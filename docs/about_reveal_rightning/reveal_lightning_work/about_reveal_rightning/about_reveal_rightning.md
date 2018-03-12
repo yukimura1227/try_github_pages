@@ -4,6 +4,15 @@ https://github.com/yukimura1227/reveal_lightning
 ![](reveal_lightning_work/about_reveal_rightning/1516283310742.png)
 <!-- .element: style="width: 50%" -->
 
+---
+
+### Author
+
+- yukimura1227
+![](reveal_lightning_work/about_reveal_rightning/xKb_JO9V_400x400.jpg)
+<!-- .element: style="width: 100%" -->
+
+
 ----------
 
 ## 何者か？
@@ -99,6 +108,12 @@ electronで作ってみよう
 
 ---
 
+### 画像をドラッグアンドドロップしして挿入
+
+- TODO: スクショ貼り付け
+
+---
+
 ### 保存するディレクトリを切替える
 1. メニューのPreferenceを開く
 1. 「contents dir」に保存先の  
@@ -163,12 +178,13 @@ Dropboxユーザの私的には同期できて嬉しい<!-- .element: class="fra
 
 ## 追加したい機能
 
-- エディターの設定変更機能
-- アプリの自動update機能
 - コンテキストメニューの整理
 - 有用なショートカットの拡充
+  * separator追加時のrevial preview部分の自動リロード
 - markdown preview部分の数式対応
 - nativeなPDF export機能
+- package後のサイズの圧縮
+- 日本語入力の安定化[brace](https://www.npmjs.com/package/brace)つかってみる
 
 ----------
 
