@@ -180,10 +180,11 @@ Dropboxユーザの私的には同期できて嬉しい<!-- .element: class="fra
 
 - コンテキストメニューの整理
 - 有用なショートカットの拡充
-  * separator追加時のrevial preview部分の自動リロード
 - markdown preview部分の数式対応
 - nativeなPDF export機能
 - package後のサイズの圧縮
+- workspaceや開いたファイルの履歴管理
+- reveal.jsのpreviewエリアの自動リロード
 
 ----------
 
