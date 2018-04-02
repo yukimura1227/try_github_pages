@@ -184,7 +184,6 @@ Dropboxユーザの私的には同期できて嬉しい<!-- .element: class="fra
 - markdown preview部分の数式対応
 - nativeなPDF export機能
 - package後のサイズの圧縮
-- 日本語入力の安定化[brace](https://www.npmjs.com/package/brace)つかってみる
 
 ----------
 
